@@ -18,6 +18,12 @@ align-items: center;
   height: 100px;
 }
 
+.intro-class
+{
+  margin-top: 100px;
+}
+
+
 .Home,.Projects,.Contacts{
   background-color: white;
   color: rgb(89, 81, 237);;
