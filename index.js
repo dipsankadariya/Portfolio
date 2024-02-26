@@ -1,5 +1,3 @@
-
-
 const navElements = document.querySelectorAll('.nav-elements');
   
 navElements.forEach(navElement => {
@@ -10,6 +8,7 @@ Will be updated shortly.
 Thank you`);
   });
 });
+
 
 const clonedProjects = document.querySelectorAll('.cloned-projects');
 
@@ -35,6 +34,7 @@ Thank you`);
   });
 });
 
+
 const minProject=document.querySelectorAll('.min-project');
 
 minProject.forEach(minProject =>{
@@ -45,6 +45,4 @@ Will be updated shortly.
 Thank you`);  
   });
 });
-
-
 
