@@ -92,11 +92,11 @@ nav i {
 }
 
 .cloned-projects:hover {
-  box-shadow: 1px 1px 10px 3px rgb(72, 69, 69);
+  box-shadow: 1px 1px 10px 3px rgb(208, 208, 208);
 }
 
 .web-projects:hover {
-  box-shadow: 1px 1px 10px 3px rgb(72, 69, 69);
+  box-shadow: 1px 1px 10px 3px rgb(208, 208, 208);
 }
 
 .skills-header,
@@ -107,7 +107,7 @@ nav i {
 }
 
 .min-project:hover {
-  box-shadow: 1px 1px 10px 3px rgb(72, 69, 69);
+  box-shadow: 1px 1px 10px 3px rgb(208, 208, 208)
 }
 
 .skills {
