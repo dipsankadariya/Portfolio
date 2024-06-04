@@ -5,7 +5,7 @@ import { SiFlutter } from 'react-icons/si';
 
 function Skills() {
   return (
-    <div className="flex flex-col items-center mt-10">
+    <div className="flex flex-col items-center mt-10 ">
       <p className="text-3xl font-semibold mb-6">Skills</p>
       <div className="grid grid-cols-3 gap-10">
         <div className="flex flex-col items-center">
