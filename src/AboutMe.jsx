@@ -5,7 +5,7 @@
       <div >
 
       <div className="flex flex-col ">
-      <p className="text-5xl m-12 font-Bold text-center leading-8">Hello Everyone!</p>
+      <p className="text-5xl m-10 font-Bold text-center leading-8">Hello Everyone!</p>
 
       <p className="text-xl mb-4 text-gray-700 w-4/5 m-auto text-start ">My name is Dipsan kadariya. I'm a 2nd year student  studying  Bachelor of Science in Computer Science and Information Technology.I'm currently
       learning WebApplications. I am Passionate about things related to web development, App development And Artificial Intelligence.</p>
