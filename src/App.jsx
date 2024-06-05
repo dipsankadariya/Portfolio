@@ -14,6 +14,7 @@ function App() {
   <Socials></Socials>
   <Projects></Projects>
   <ClonedProjects></ClonedProjects>
+  <Blogs></Blogs>
   <Skills></Skills>
   <MiniProjects></MiniProjects>
   

@@ -12,7 +12,7 @@ function AboutMe() {
 
       <div className="w-full max-w-3xl">
         <h2 className="text-2xl font-semibold mb-4">Currently I'm:</h2>
-        <ul className="list-disc list-inside text-lg space-y-2 pl-5">
+        <ul className="list-disc list-inside text-lg space-y-2 pl-0">
           <li>Working on a tourist-based web project crafted to empower travelers and tourists with the tools and resources essential for discovering, planning, and booking their dream vacations in Nepal.</li>
           <li>Researching and writing a blog on Neuralink, addressing its impact on individual life.</li>
           <li>Learning Web and App development.</li>
