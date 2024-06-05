@@ -11,7 +11,6 @@ function App() {
   return (
   <>
   <AboutMe></AboutMe>
-  <Blogs></Blogs>
   <Socials></Socials>
   <Projects></Projects>
   <ClonedProjects></ClonedProjects>
