@@ -7,7 +7,7 @@ function Blogs() {
     <div className="bg-white text-gray-900 my-10 flex flex-col justify-center items-center">
       <h1 className="text-4xl font-bold mb-4 text-center">Blogs & Articles on: </h1>
       <div className="flex items-center">
-        <a href="">
+        <a href="#">
           <FontAwesomeIcon icon={faBlogger} className="text-6xl hover:animate-spin text-gray-800" />
         </a>
       </div>
